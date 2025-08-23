@@ -1,6 +1,5 @@
 # Flutter Password Generator 🔐
-
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg) ![Framework: Flutter](https://img.shields.io/badge/Framework-Flutter-blue.svg)
+![Framework: Flutter](https://img.shields.io/badge/Framework-Flutter-blue.svg)
 
 A simple, secure, and cross-platform password generator application built with Flutter.
 
