@@ -57,7 +57,10 @@ Project Link: [https://github.com/poly-30/Password_Generator](https://github.com
 Here's a preview of the Password Generator app in action:
 
 **Android View**
+--------------------------
 ![Android App Screenshot](screenshots/android-view.png)
 
+
 **Web View**
+----------------------
 ![Web App Screenshot](screenshots/web-view.png)
