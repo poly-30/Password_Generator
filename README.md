@@ -51,3 +51,13 @@ Contributions are what make the open-source community such an amazing place to l
 Your Name - [@rk_poly](https://twitter.com/rk_poly) - myselfpoly01@gmail.com
 
 Project Link: [https://github.com/poly-30/Password_Generator](https://github.com/poly-30/Password_Generator)
+
+## Screenshots
+
+Here's a preview of the Password Generator app in action:
+
+**Android View**
+![Android App Screenshot](screenshots/android-view.png)
+
+**Web View**
+![Web App Screenshot](screenshots/web-view.png)
