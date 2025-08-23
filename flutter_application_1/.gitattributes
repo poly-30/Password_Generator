@@ -1,3 +1,4 @@
-windows/* linguist-vendored
-linux/* linguist-vendored
-macos/* linguist-vendored
+# Tell Linguist these directories contain generated code
+windows/ linguist-generated
+linux/ linguist-generated
+macos/ linguist-generated
